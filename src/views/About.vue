@@ -53,7 +53,7 @@ body {
   margin: 0;
   padding: 1px;
   box-sizing: border-box;
-  box-shadow: 0px 0px 16px rgba(37, 28, 28, 0.25);
+  box-shadow: 0px 0px 16px rgba(32, 28, 28, 0.25);
   background-color: rgba(175, 128, 162, 0.75);
   border-radius: 16px 0px 16px 0px;
 }
